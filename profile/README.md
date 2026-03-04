@@ -106,7 +106,7 @@ Para un análisis detallado de la implementación, limpieza de datos y entrenami
 
 A continuación se detalla el flujo técnico desde la entrada de datos hasta la generación de los informes finales:
 
-![Pipeline de PawSense](assets/pipeline.png)
+![Pipeline de PawSense](./assets/pipeline.png)
 
 <br>
 
