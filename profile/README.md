@@ -4,15 +4,29 @@ PawSense es una aplicación de inteligencia artificial que analiza **imágenes, 
 
 El sistema utiliza modelos de visión por computador para detectar rasgos morfológicos y generar una **predicción probabilística**, mostrando el porcentaje estimado de cada raza identificada.
 
----
+
+## 📌 Recursos del Proyecto
+
+| Tipo | Descripción | Enlace |
+| :--- | :--- | :--- |
+| 🌍 **Web** | Aplicación desplegada en producción | [Ir al sitio](https://pawsense-iabd.vercel.app/) |
+| 🛠️ **Core** | Repositorio principal (Frontend & Backend) | [Ver Código](https://github.com/PawSense-IABD/PawSense) |
+| 📺 **Presentación** | Presentación en PDF del proyecto | [Ver Presentación](#) |
+| 🤖 **ML** | Notebooks de entrenamiento y modelos | [Modelos](https://github.com/PawSense-IABD/PawSenseTFNotebookAndModel) / [Pipeline](https://github.com/PawSense-IABD/pawsense-pipeline-notebook) |
+
+
+## 👥 Equipo y Participación
+
+| [<img src="https://github.com/USUARIO_VICTOR.png" width="100px;"/><br /><sub><b>Víctor Jiménez</b></sub>](https://github.com/vjimgue) | [<img src="https://github.com/USUARIO_ENRIQUE.png" width="100px;"/><br /><sub><b>Enrique Moreno</b></sub>](https://github.com/enri081) | [<img src="https://github.com/USUARIO_CARLOS.png" width="100px;"/><br /><sub><b>Carlos Cerezo</b></sub>](https://github.com/carloscl2005) | [<img src="https://github.com/USUARIO_DENISA.png" width="100px;"/><br /><sub><b>Denisa Ramona</b></sub>](https://github.com/denibel04) |
+| :---: | :---: | :---: | :---: |
+| 25% | 25% | 25% | 25% |
+
 
 <br>
-
-
 https://github.com/user-attachments/assets/72b53ea6-716d-4ac3-a272-696e7ca3c787
-
 <br>
 <br>
+---
 
 ## 🚀 Características
 
@@ -123,12 +137,7 @@ Para el desarrollo de PawSense se han empleado los siguientes conjuntos de datos
 <br>
 
 
-## 👥 Equipo y Participación
 
-- Víctor Jiménez Guerrero  (25%)
-- Enrique Moreno Alcántara  (25%)
-- Carlos Cerezo López  (25%)
-- Denisa Ramona Belean  (25%)
 
 <br>
 <br>
