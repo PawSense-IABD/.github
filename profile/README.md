@@ -17,9 +17,11 @@ El sistema utiliza modelos de visión por computador para detectar rasgos morfol
 
 ## 👥 Equipo y Participación
 
-| [<img src="https://github.com/USUARIO_VICTOR.png" width="100px;"/><br /><sub><b>Víctor Jiménez</b></sub>](https://github.com/vjimgue) | [<img src="https://github.com/USUARIO_ENRIQUE.png" width="100px;"/><br /><sub><b>Enrique Moreno</b></sub>](https://github.com/enri081) | [<img src="https://github.com/USUARIO_CARLOS.png" width="100px;"/><br /><sub><b>Carlos Cerezo</b></sub>](https://github.com/carloscl2005) | [<img src="https://github.com/USUARIO_DENISA.png" width="100px;"/><br /><sub><b>Denisa Ramona</b></sub>](https://github.com/denibel04) |
+| [<img src="https://github.com/vjimgue.png" width="100px;"/><br /><sub><b>Víctor Jiménez</b></sub>](https://github.com/vjimgue) | [<img src="https://github.com/enri081.png" width="100px;"/><br /><sub><b>Enrique Moreno</b></sub>](https://github.com/enri081) | [<img src="https://github.com/carloscl2005.png" width="100px;"/><br /><sub><b>Carlos Cerezo</b></sub>](https://github.com/carloscl2005) | [<img src="https://github.com/denibel04.png" width="100px;"/><br /><sub><b>Denisa Ramona</b></sub>](https://github.com/denibel04) |
 | :---: | :---: | :---: | :---: |
 | 25% | 25% | 25% | 25% |
+
+--- 
 
 
 <br>
