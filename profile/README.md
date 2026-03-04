@@ -4,6 +4,15 @@ PawSense es una aplicación de inteligencia artificial que analiza **imágenes, 
 
 El sistema utiliza modelos de visión por computador para detectar rasgos morfológicos y generar una **predicción probabilística**, mostrando el porcentaje estimado de cada raza identificada.
 
+## 🚀 Características
+
+- Análisis de imágenes  
+- Procesamiento de vídeo y GIF  
+- Detección en tiempo real  
+- Predicción probabilística de razas  
+- ChatBot conversacional integrado  
+- Agente de IA generador de informes (Veterinario / Adiestramiento)  
+
 
 ## 📌 Recursos del Proyecto
 
@@ -32,8 +41,6 @@ https://github.com/user-attachments/assets/72b53ea6-716d-4ac3-a272-696e7ca3c787
 
 ---
 
-<br>
-
 ## Previews de la Aplicación
 
 A continuación se presentan demostraciones visuales de las funcionalidades principales del sistema:
@@ -44,15 +51,6 @@ A continuación se presentan demostraciones visuales de las funcionalidades prin
 | Predicción de Imágenes | [Reproducir Demostración](https://github.com/user-attachments/assets/50903328-a7ea-42e0-b749-01c82d530881) |
 | Agente de Informes | [Reproducir Demostración](https://github.com/user-attachments/assets/500cad2c-506f-4fbe-9bac-e0fb7dc1d528) |
 | Análisis de Vídeo | [Reproducir Demostración](https://github.com/user-attachments/assets/0ede8214-1a7b-46f3-a348-fa5ee8ebc40e) |
-
-## 🚀 Características
-
-- 📸 Análisis de imágenes  
-- 🎥 Procesamiento de vídeo y GIF  
-- 🔴 Detección en tiempo real  
-- 📊 Predicción probabilística de razas  
-- 💬 ChatBot conversacional integrado  
-- 🤖 Agente de IA generador de informes (Veterinario / Adiestramiento)  
 
 <br>
 
@@ -74,6 +72,8 @@ A continuación se presentan demostraciones visuales de las funcionalidades prin
     * **Informe de Adiestramiento**: Centrado en pautas conductuales, técnicas de refuerzo y socialización.
 8. **Procesamiento de Voz**: Capacidad de generar informes a partir de grabaciones de audio, realizando transcripción automática y extracción de entidades relevantes para el documento final.
 
+<br>
+
 ## 🎯 Casos de uso
 
 - **Protectoras y refugios**: Identificación aproximada de perros sin documentación.  
@@ -92,12 +92,14 @@ Para el entrenamiento y validación de los modelos de inteligencia artificial, s
 | **Stanford Dogs Dataset** | Dataset de referencia con 120 razas de perros de todo el mundo. | 20,580 | [Kaggle](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset) |
 | **Dog Breed Dataset** | Colección de imágenes con las 355 razas aprobadas por el FCI. | 12,500 | [GitHub](https://github.com/AtharvaTaras/Dog-Breeds-Dataset) |
 
-### 📖 Más información técnica
-[![Ver Notebooks de los modelos de Standford](https://img.shields.io/badge/Leer_Notebooks-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/PawSense-IABD/PawSenseTFNotebookAndModel)
-[![Ver Notebook del modelo de Dog Breed y Pipeline de predicción](https://img.shields.io/badge/Ver_Pipeline-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/PawSense-IABD/pawsense-pipeline-notebook)
+### 📖 Documentación técnica adicional
+
+Para un análisis detallado de la implementación, limpieza de datos y entrenamiento, puedes consultar los siguientes repositorios:
+
+* 📓 **Análisis y Modelado:** [Notebooks de los modelos de Stanford](https://github.com/PawSense-IABD/PawSenseTFNotebookAndModel) — Contiene el proceso de entrenamiento, validación y exportación de los modelos de Keras y Pytorch con el dataset de Standford.
+* ⚙️ **Pipeline de Predicción:** [Modelo Dog Breed e Infraestructura](https://github.com/PawSense-IABD/pawsense-pipeline-notebook) — Detalla entrenamiento del modelo con el modelo de Dog Breed Dataset y el flujo de datos y la automatización de las predicciones.
 
 <br>
-
 
 ## 🏗️ Pipeline del Sistema
 
