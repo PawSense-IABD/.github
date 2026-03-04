@@ -28,9 +28,11 @@ El sistema utiliza modelos de visión por computador para detectar rasgos morfol
 https://github.com/user-attachments/assets/72b53ea6-716d-4ac3-a272-696e7ca3c787
 
 <br>
-<br>
+
 
 ---
+
+<br>
 
 ## Previews de la Aplicación
 
