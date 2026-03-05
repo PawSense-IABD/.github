@@ -129,7 +129,7 @@ Para el desarrollo de PawSense se han empleado los siguientes conjuntos de datos
 
 - [Manual y Documentación Oficial Angular](https://angular.dev/docs)
 - [Dataset Standford Dogs](https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset)
-- [Dataset Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data) 
+- [Dataset Dog Breed Identification](https://github.com/AtharvaTaras/Dog-Breeds-Dataset) 
 - [Web Oficial TheDogAPI](https://thedogapi.com/)
 - [Manual de integración TheDogAPI](https://docs.thedogapi.com/)
 - [Documentación de Gemini API](https://ai.google.dev/gemini-api/docs)
