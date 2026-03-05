@@ -24,6 +24,18 @@ El sistema utiliza modelos de visión por computador para detectar rasgos morfol
 | 📺 **Presentación** | Presentación en PDF del proyecto | [Ver Presentación](#) |
 | 📽️ **Vídeo** | Vídeo explicativo del proyecto en YouTube | [Ver Video](#) |
 
+## 📱 ¡Pruébalo ahora!
+
+Escanea este código QR para descargar la última versión de **PawSense** para Android:
+
+<p align="center">
+  <img src="assets/pawsense-apk-qr.png" width="200" alt="QR Code PawSense">
+  <br>
+  <sub>Escanea con la cámara de tu móvil 🐾</sub>
+</p>
+
+<br>
+
 
 ## 👥 Equipo y Participación
 
