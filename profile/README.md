@@ -21,7 +21,7 @@ El sistema utiliza modelos de visión por computador para detectar rasgos morfol
 | 🌍 **Web** | Aplicación desplegada en producción | [Ir al sitio](https://pawsense-iabd.vercel.app/) |
 | 🛠️ **Core** | Repositorio principal (Frontend & Backend) | [Ver Código](https://github.com/PawSense-IABD/PawSense) |
 | 🤖 **ML** | Notebooks de entrenamiento y modelos | [Modelos](https://github.com/PawSense-IABD/PawSenseTFNotebookAndModel) / [Pipeline](https://github.com/PawSense-IABD/pawsense-pipeline-notebook) |
-| 📺 **Presentación** | Presentación en PDF del proyecto | [Ver Presentación](#) |
+| 📺 **Presentación** | Presentación en PDF del proyecto | [Ver Presentación](https://www.canva.com/design/DAHC_T78ElU/hNVmp86Hp-jK1L0pYEvWCQ/view?utm_content=DAHC_T78ElU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1ae6fd1418) |
 | 📽️ **Vídeo** | Vídeo explicativo del proyecto en YouTube | [Ver Video](https://youtu.be/QR5fA2Lu14o) |
 
 ## 📱 ¡Pruébalo ahora!
